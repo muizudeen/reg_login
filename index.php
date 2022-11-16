@@ -359,6 +359,8 @@ RIGHT SIDEBAR TOGGLE SECTION
           echo "error: " . $sql . "<br>" . mysqli_error($connect);
         }
     }
+
+    // empty comment
   ?>
 
 
